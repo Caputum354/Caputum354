@@ -1,8 +1,8 @@
 # 👨‍💻 Italo Moreno
 
-**`Estudante Analista e Desenvolvimento de Sistemas`**
+**`Formado em Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Italo Moreno, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unipaulistana. Tenho estudado multiplas linguagens de programação sendo mais experiente em criação de sites usando HTTP, CSS e JS. Tenho experiência com Python em projetos de altomação próprios meu e também um pouco de PHP, Atualmente estou estudando e melhorando minhas habilidades com criação de sites e segurança da informação. Estou a procura de oportunidades na área da tecnologia e aqui deixarei algumas informações adicionais de projetos pessoais e freelancer para mostrar meu comprometimento na área da tecnologia 
+Me chamo Italo Moreno, tenho 20 anos e sou natural de São Paulo. Atualmente, estou formado em Análise e Desenvolvimento de Sistemas na Unipaulistana. Tenho estudado multiplas linguagens de programação sendo mais experiente em criação de sites usando HTTP, CSS e JS. Tenho experiência com Python em projetos de altomação próprios meu e também um pouco de PHP, Atualmente estou estudando e melhorando minhas habilidades com criação de sites e segurança da informação. Estou a procura de oportunidades na área da tecnologia e aqui deixarei algumas informações adicionais de projetos pessoais e freelancer para mostrar meu comprometimento na área da tecnologia 
 
 <p align="left">
     <a href="mailto:caputummoreno@gmail.com">
