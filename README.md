@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&color=BD0303&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack+Web+%7C+Caputum" alt="Typing SVG" /></a>
 # 👨‍💻 Italo Moreno
 
 **`Formado em Análise e Desenvolvimento de Sistemas`**
