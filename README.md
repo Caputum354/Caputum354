@@ -21,7 +21,7 @@ Me chamo Italo Moreno, tenho 20 anos e sou natural de São Paulo. Atualmente, es
     />
 </p>
 
-   <a href="https://www.linkedin.com/in/italo-moreno-8a2741350/" target="_blank">
+   <a href="[www.linkedin.com/in/italo-moreno](https://www.linkedin.com/in/italo-moreno)" target="_blank">
     <img 
         alt="Linkedin" 
         title="Veja meu Linkedin" 
