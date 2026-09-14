@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=002366&customColorList=23"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=32&pause=1000&color=002366&width=435&lines=Italo+Moreno+%7C+Caputum;Desenvolvedor+Full+Stack;Proano" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=32&pause=1000&color=002366&width=435&lines=Italo+Moreno+%7C+Caputum;Desenvolvedor+Full+Stack;Ex-Proano" alt="Typing SVG" /></a>
 
 **`Formado em Análise e Desenvolvimento de Sistemas`**
 
